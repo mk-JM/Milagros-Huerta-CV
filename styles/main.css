@@ -7277,3 +7277,7 @@ a.credit {
 .section {
   padding-bottom: 0;
 }
+
+#portfolio div.h4{
+  text-decoration:underline;
+}
